@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+streamlit
+
+
+to run :
+
+cd "path_to_your_project_folder"
+python -m streamlit run app.py
